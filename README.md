@@ -1,4 +1,4 @@
-# mentation
+# Mentation
 
 Mentation is a Python-based utility designed to document and audit Docker environments. It provides detailed insights into Docker containers, networks, volumes, and image versions, and offers actionable recommendations to improve your Docker configurations.
 
